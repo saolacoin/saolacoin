@@ -4,15 +4,16 @@ Saolacoin integration/staging tree
 http://www.saolacoin.org
 
 Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 Saolacoin Developers
+Copyright (c) 2011-2014 Litecoin Developers
+Copyright (c) 2020-2021 Saolacoin Developers
 
 What is Saolacoin?
 ----------------
 
 Saolacoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
- - 2.5 minute block targets
- - subsidy halves in 840k blocks (~4 years)
- - ~84 million total coins
+ - 2 minute block targets
+ - subsidy halves in 2100k blocks (~4 years)
+ - ~21 billion total coins
 
 The rest is the same as Bitcoin.
  - 50 coins per block
