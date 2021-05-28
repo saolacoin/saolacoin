@@ -1,0 +1,34 @@
+src/*.exe
+src/saolacoin
+src/saolacoind
+src/test_saolacoin
+.*.swp
+*.*~*
+*.bak
+*.rej
+*.orig
+*.o
+*.patch
+.saolacoin
+
+# Compilation and Qt preprocessor part
+*.qm
+Makefile
+saolacoin-qt
+Saolacoin-Qt.app
+
+# Unit-tests
+Makefile.test
+saolacoin-qt_test
+
+# Resources cpp
+qrc_*.cpp
+
+# Qt creator
+*.pro.user
+
+# Mac specific
+.DS_Store
+build
+
+!src/leveldb*/Makefile
