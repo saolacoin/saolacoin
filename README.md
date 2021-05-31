@@ -4,8 +4,7 @@ Saolacoin integration/staging tree
 http://www.saolacoin.org
 
 Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 Litecoin Developers
-Copyright (c) 2020-2021 Saolacoin Developers
+Copyright (c) 2011-2014 Saolacoin Developers
 
 What is Saolacoin?
 ----------------
@@ -71,5 +70,3 @@ Unit tests for the GUI code are in `src/qt/test/`. To compile and run them:
     qmake BITCOIN_QT_TEST=1 -o Makefile.test bitcoin-qt.pro
     make -f Makefile.test
     ./saolacoin-qt_test
-
-# saolacoin
