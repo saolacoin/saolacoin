@@ -11,8 +11,8 @@ What is Saolacoin?
 
 Saolacoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
  - 2 minute block targets
- - subsidy halves in 2100k blocks (~8 years)
- - ~21 billion total coins
+ - subsidy halves in 21000k blocks (~80 years)
+ - ~2.1 billion total coins
 
 The rest is the same as Bitcoin.
  - 50 coins per block
